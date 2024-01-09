@@ -1,0 +1,29 @@
+2024-01-09 15:02:41,770 - INF -             root - Serving on http://localhost:5000
+2024-01-09 15:02:46,229 - INF -              api - "GET /drawing HTTP/1.1" 200 2172 0.00800
+2024-01-09 15:02:54,441 - INF -              api - "GET /drawing HTTP/1.1" 200 2172 0.00100
+2024-01-09 15:04:27,125 - INF -             root - Serving on http://localhost:5000
+2024-01-09 15:04:29,260 - INF -              api - "GET /drawing HTTP/1.1" 200 2172 0.00600
+2024-01-09 15:04:35,610 - INF -              api - "GET /drawing HTTP/1.1" 200 2172 0.00000
+2024-01-09 15:05:18,692 - INF -             root - Serving on http://localhost:5000
+2024-01-09 15:05:46,697 - INF -              api - "GET /drawing HTTP/1.1" 200 2172 0.01100
+2024-01-09 15:11:03,772 - INF -             root - Serving on http://localhost:5000
+2024-01-09 15:12:50,396 - INF -             root - Serving on http://localhost:5000
+2024-01-09 15:14:45,338 - INF -             root - Serving on http://localhost:5000
+2024-01-09 15:15:53,806 - INF -             root - Serving on http://localhost:5000
+2024-01-09 15:16:07,712 - INF -              api - "GET /img/T7_CAPE@4.png HTTP/1.1" 404 207 0.00100
+2024-01-09 15:16:09,023 - INF -              api - "GET /img/T7_CAPE@4.png HTTP/1.1" 404 207 0.00100
+2024-01-09 15:16:09,479 - INF -              api - "GET /img/T7_CAPE@4.png HTTP/1.1" 404 207 0.00000
+2024-01-09 15:16:09,683 - INF -              api - "GET /img/T7_CAPE@4.png HTTP/1.1" 404 207 0.00100
+2024-01-09 15:16:30,296 - INF -             root - Serving on http://localhost:5000
+2024-01-09 15:22:12,659 - INF -             root - Serving on http://localhost:5000
+2024-01-09 15:24:07,866 - INF -              api - "GET /drawing HTTP/1.1" 200 2172 0.01100
+2024-01-09 15:24:26,659 - INF -             root - Serving on http://localhost:5000
+2024-01-09 15:24:29,558 - INF -              api - "GET /raw HTTP/1.1" 200 44082 0.01000
+2024-01-09 15:24:33,782 - INF -              api - "GET /chests HTTP/1.1" 200 28142 0.00400
+2024-01-09 15:24:36,307 - INF -              api - "GET /raw HTTP/1.1" 200 44082 0.00000
+2024-01-09 15:24:37,659 - INF -              api - "GET / HTTP/1.1" 200 20479 0.00500
+2024-01-09 15:24:38,882 - INF -              api - "GET /raw HTTP/1.1" 200 44082 0.00100
+2024-01-09 15:25:07,312 - INF -              api - "GET /drawing HTTP/1.1" 200 2172 0.00800
+2024-01-09 17:15:46,600 - INF -              api - "GET / HTTP/1.1" 200 20479 0.00100
+2024-01-09 17:23:13,733 - INF -              api - "GET /raw HTTP/1.1" 200 44082 0.00100
+2024-01-09 17:23:29,741 - INF -              api - "GET /drawing HTTP/1.1" 200 2172 0.00100

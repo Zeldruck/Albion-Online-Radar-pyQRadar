@@ -1,1 +1,1 @@
-# Albion-Online-Radar-pyQRadar
+# example-package
